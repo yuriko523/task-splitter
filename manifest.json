@@ -1,0 +1,24 @@
+{
+  "name": "任务拆分器",
+  "short_name": "拆分器",
+  "description": "把大事拆成小事——拖延症任务拆分器",
+  "start_url": "/task-splitter/",
+  "display": "standalone",
+  "background_color": "#fef7f0",
+  "theme_color": "#fce4c8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
